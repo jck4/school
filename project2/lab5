@@ -1,0 +1,5 @@
+
+vlan 1
+trunk port  port access multiple vlans
+IEEE abrv
+xlayer 2

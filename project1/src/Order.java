@@ -18,12 +18,8 @@ public class Order{
 
 
   public static ArrayList<String> bookIDList = new ArrayList<String>();
-
-
-
-
   public static ArrayList<String> orderList = new ArrayList<String>();
-
+  public static ArrayList<String> log = new ArrayList<String>();
 
 
   public void addToOrder(String item){
@@ -112,20 +108,17 @@ public class Order{
     orderList = new ArrayList<String>();
   }
 
-  static void appendOutput(ArrayList<String> check){
-    String pattern = "DDMMYYYYHHMM";
-    String appendString = "";
-    SimpleDateFormat format = new SimpleDateFormat(pattern);
-    String date = format.format(new Date());
+  // static void appendOutput(){
+  //   for (String i : log){
+  //       System.out.println(i);
+  //   }
+  // }
 
-
-    for (String i : check){
-        appendString += date + ", " + i.split(",")[0] + "\n";
-        System.out.println(appendString);
-    }
-
-
-
+  static void addOut(String out){
+    System.out.println(out);
+    log.add(out);
   }
+
+
 
 }

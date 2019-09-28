@@ -3,6 +3,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import java.awt.event.*;
 import javax.swing.*;
+import java.text.SimpleDateFormat;
 
 import java.io.*;
 import java.util.*;
@@ -25,8 +26,10 @@ public class Toolbar extends JPanel  {
   public ArrayList<String> inventory = new ArrayList<String>();
   public ArrayList<String> checkInventory;
 
+
   public Order order = new Order();
-  public String newText;
+  public static String newText = "";
+  public static String fileOut = "";
 
   public ArrayList<String> getInventory()
      {
@@ -120,13 +123,25 @@ public class Toolbar extends JPanel  {
                 z[2].replaceAll("\\s+", "") +
                 " " + itemQuant + " " + dis + " $" + String.format("%.2f", totalPrice);
 
+              String pattern = "DDMMYYYYHHMM";
+              String pattern2 = "d/M/y, hh:mm:ss a z";
+              String appendString = "";
+              SimpleDateFormat format = new SimpleDateFormat(pattern);
+              SimpleDateFormat format2 = new SimpleDateFormat(pattern2);
+              String date = format.format(new Date());
+              String date2 = format2.format(new Date());
 
+              fileOut = date + ", " + z[0] + ", " + z[1] + ", " + z[2] + ", " +
+                itemQuant + ", " + (1 - discount) + ", $" + String.format("%.2f", totalPrice) + ", " +  date2 + "\n";
+
+              order.addOut(fileOut);
+
+              fileOut = "";
 
               text.itemInfo().setText(newText);
               isInInventory = true;
               processItem.setEnabled(false);
               confirmItem.setEnabled(true);
-
               }
           }
 
@@ -181,6 +196,7 @@ public class Toolbar extends JPanel  {
         totalPrice = 0;
         numItems = 1;
         newText = "";
+        fileOut = "";
         order.reset();
         processItem.setText("Process Item #1");
         processItem.setEnabled(true);
@@ -206,7 +222,7 @@ public class Toolbar extends JPanel  {
       public void actionPerformed(ActionEvent e)
       {
         order.checkOut();
-        order.appendOutput(checkInventory);
+        order.appendOutput();
       }
     });
 
