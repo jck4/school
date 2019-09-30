@@ -1,0 +1,319 @@
+Thread D0 deposits  $177                                     Balance is $0 
+Thread D3 deposits  $63                                      Balance is $177 
+Thread D2 deposits  $138                                     Balance is $240 
+Thread D1 deposits  $211                                     Balance is $378 
+                          Thread W0 withdraws $49            Balance is $540
+                          Thread W1 withdraws $21            Balance is $519
+                          Thread W2 withdraws $38            Balance is $481
+                          Thread W3 withdraws $36            Balance is $445
+                          Thread W4 withdraws $4             Balance is $441
+                          Thread W5 withdraws $3             Balance is $438
+                          Thread W6 withdraws $14            Balance is $424
+                          Thread W6 withdraws $11            Balance is $413
+                          Thread W7 withdraws $23            Balance is $390
+Thread D1 deposits  $118                                     Balance is $390 
+                          Thread W1 withdraws $39            Balance is $469
+                          Thread W5 withdraws $6             Balance is $463
+                          Thread W2 withdraws $36            Balance is $427
+                          Thread W6 withdraws $31            Balance is $396
+                          Thread W4 withdraws $22            Balance is $374
+                          Thread W0 withdraws $16            Balance is $358
+                          Thread W1 withdraws $19            Balance is $339
+                          Thread W0 withdraws $33            Balance is $306
+                          Thread W3 withdraws $3             Balance is $303
+                          Thread W5 withdraws $33            Balance is $270
+                          Thread W7 withdraws $33            Balance is $237
+                          Thread W5 withdraws $13            Balance is $224
+                          Thread W7 withdraws $48            Balance is $176
+                          Thread W2 withdraws $34            Balance is $142
+                          Thread W0 withdraws $0             Balance is $142
+Thread D2 deposits  $54                                      Balance is $142 
+                          Thread W5 withdraws $12            Balance is $184
+                          Thread W1 withdraws $16            Balance is $168
+                          Thread W3 withdraws $5             Balance is $163
+Thread D1 deposits  $1                                       Balance is $163 
+                          Thread W4 withdraws $32            Balance is $132
+                          Thread W7 withdraws $36            Balance is $96
+                          Thread W6 withdraws $2             Balance is $94
+Thread D2 deposits  $211                                     Balance is $94 
+                          Thread W0 withdraws $2             Balance is $303
+                          Thread W5 withdraws $38            Balance is $265
+                          Thread W3 withdraws $37            Balance is $228
+                          Thread W4 withdraws $18            Balance is $210
+                          Thread W2 withdraws $9             Balance is $201
+                          Thread W1 withdraws $30            Balance is $171
+Thread D0 deposits  $227                                     Balance is $171 
+                          Thread W4 withdraws $15            Balance is $383
+                          Thread W0 withdraws $10            Balance is $373
+                          Thread W7 withdraws $10            Balance is $363
+                          Thread W7 withdraws $46            Balance is $317
+                          Thread W6 withdraws $41            Balance is $276
+                          Thread W0 withdraws $0             Balance is $276
+                          Thread W1 withdraws $15            Balance is $261
+                          Thread W3 withdraws $1             Balance is $260
+                          Thread W3 withdraws $0             Balance is $260
+                          Thread W3 withdraws $19            Balance is $241
+                          Thread W2 withdraws $14            Balance is $227
+                          Thread W2 withdraws $36            Balance is $191
+                          Thread W5 withdraws $0             Balance is $191
+                          Thread W4 withdraws $36            Balance is $155
+                          Thread W3 withdraws $47            Balance is $108
+Thread D1 deposits  $73                                      Balance is $108 
+                          Thread W5 withdraws $40            Balance is $141
+                          Thread W6 withdraws $45            Balance is $96
+                          Thread W2 withdraws $37            Balance is $59
+                          Thread W3 withdraws $30            Balance is $29
+                          Thread W7 withdraws $37 - Blocked - Insufficient funds
+                          Thread W4 withdraws $18            Balance is $11
+                          Thread W0 withdraws $0             Balance is $11
+                          Thread W1 withdraws $19 - Blocked - Insufficient funds
+                          Thread W0 withdraws $21 - Blocked - Insufficient funds
+                          Thread W2 withdraws $32 - Blocked - Insufficient funds
+Thread D3 deposits  $63                                      Balance is $11 
+                          Thread W5 withdraws $44            Balance is $30
+                          Thread W6 withdraws $8             Balance is $22
+                          Thread W6 withdraws $5             Balance is $17
+                          Thread W6 withdraws $31 - Blocked - Insufficient funds
+                          Thread W7 withdraws $24 - Blocked - Insufficient funds
+                          Thread W4 withdraws $33 - Blocked - Insufficient funds
+                          Thread W3 withdraws $43 - Blocked - Insufficient funds
+                          Thread W5 withdraws $34 - Blocked - Insufficient funds
+Thread D1 deposits  $243                                     Balance is $17 
+                          Thread W4 withdraws $5             Balance is $255
+                          Thread W3 withdraws $22            Balance is $233
+                          Thread W0 withdraws $37            Balance is $196
+                          Thread W7 withdraws $22            Balance is $174
+                          Thread W1 withdraws $19            Balance is $155
+                          Thread W2 withdraws $13            Balance is $142
+                          Thread W1 withdraws $29            Balance is $113
+                          Thread W2 withdraws $23            Balance is $90
+                          Thread W1 withdraws $5             Balance is $85
+                          Thread W2 withdraws $4             Balance is $81
+                          Thread W0 withdraws $43            Balance is $38
+                          Thread W2 withdraws $35            Balance is $3
+                          Thread W5 withdraws $11 - Blocked - Insufficient funds
+                          Thread W3 withdraws $30 - Blocked - Insufficient funds
+                          Thread W1 withdraws $4 - Blocked - Insufficient funds
+                          Thread W2 withdraws $25 - Blocked - Insufficient funds
+                          Thread W4 withdraws $5 - Blocked - Insufficient funds
+                          Thread W7 withdraws $18 - Blocked - Insufficient funds
+                          Thread W0 withdraws $21 - Blocked - Insufficient funds
+                          Thread W6 withdraws $11 - Blocked - Insufficient funds
+Thread D2 deposits  $133                                     Balance is $3 
+                          Thread W3 withdraws $39            Balance is $97
+                          Thread W3 withdraws $27            Balance is $70
+                          Thread W0 withdraws $1             Balance is $69
+                          Thread W1 withdraws $2             Balance is $67
+                          Thread W7 withdraws $41            Balance is $26
+                          Thread W4 withdraws $34 - Blocked - Insufficient funds
+                          Thread W6 withdraws $6             Balance is $20
+                          Thread W7 withdraws $14            Balance is $6
+                          Thread W6 withdraws $19 - Blocked - Insufficient funds
+                          Thread W5 withdraws $43 - Blocked - Insufficient funds
+                          Thread W2 withdraws $13 - Blocked - Insufficient funds
+                          Thread W0 withdraws $1             Balance is $5
+                          Thread W3 withdraws $16 - Blocked - Insufficient funds
+Thread D2 deposits  $209                                     Balance is $5 
+                          Thread W0 withdraws $37            Balance is $177
+                          Thread W0 withdraws $36            Balance is $141
+                          Thread W4 withdraws $39            Balance is $102
+                          Thread W6 withdraws $24            Balance is $78
+                          Thread W7 withdraws $5             Balance is $73
+                          Thread W1 withdraws $18            Balance is $55
+                          Thread W2 withdraws $21            Balance is $34
+                          Thread W7 withdraws $15            Balance is $19
+                          Thread W6 withdraws $27 - Blocked - Insufficient funds
+                          Thread W0 withdraws $10            Balance is $9
+                          Thread W4 withdraws $3             Balance is $6
+                          Thread W3 withdraws $32 - Blocked - Insufficient funds
+                          Thread W5 withdraws $7 - Blocked - Insufficient funds
+Thread D0 deposits  $230                                     Balance is $6 
+                          Thread W1 withdraws $31            Balance is $205
+Thread D1 deposits  $32                                      Balance is $205 
+                          Thread W0 withdraws $16            Balance is $221
+                          Thread W2 withdraws $22            Balance is $199
+                          Thread W7 withdraws $23            Balance is $176
+                          Thread W1 withdraws $36            Balance is $140
+                          Thread W2 withdraws $36            Balance is $104
+                          Thread W5 withdraws $6             Balance is $98
+                          Thread W1 withdraws $44            Balance is $54
+                          Thread W0 withdraws $14            Balance is $40
+                          Thread W3 withdraws $6             Balance is $34
+                          Thread W4 withdraws $13            Balance is $21
+                          Thread W7 withdraws $18            Balance is $3
+                          Thread W5 withdraws $10 - Blocked - Insufficient funds
+                          Thread W0 withdraws $32 - Blocked - Insufficient funds
+                          Thread W4 withdraws $28 - Blocked - Insufficient funds
+Thread D3 deposits  $123                                     Balance is $3 
+                          Thread W0 withdraws $22            Balance is $104
+                          Thread W7 withdraws $39            Balance is $65
+                          Thread W6 withdraws $31            Balance is $34
+                          Thread W0 withdraws $9             Balance is $25
+                          Thread W2 withdraws $43 - Blocked - Insufficient funds
+                          Thread W4 withdraws $8             Balance is $17
+                          Thread W1 withdraws $20 - Blocked - Insufficient funds
+                          Thread W6 withdraws $44 - Blocked - Insufficient funds
+                          Thread W3 withdraws $16            Balance is $1
+Thread D0 deposits  $202                                     Balance is $1 
+                          Thread W2 withdraws $49            Balance is $154
+                          Thread W1 withdraws $0             Balance is $154
+                          Thread W0 withdraws $11            Balance is $143
+                          Thread W5 withdraws $39            Balance is $104
+                          Thread W7 withdraws $36            Balance is $68
+                          Thread W7 withdraws $47            Balance is $21
+                          Thread W1 withdraws $28 - Blocked - Insufficient funds
+                          Thread W4 withdraws $33 - Blocked - Insufficient funds
+                          Thread W2 withdraws $24 - Blocked - Insufficient funds
+                          Thread W6 withdraws $12            Balance is $9
+                          Thread W6 withdraws $43 - Blocked - Insufficient funds
+                          Thread W0 withdraws $31 - Blocked - Insufficient funds
+                          Thread W3 withdraws $36 - Blocked - Insufficient funds
+                          Thread W5 withdraws $38 - Blocked - Insufficient funds
+Thread D0 deposits  $86                                      Balance is $9 
+                          Thread W7 withdraws $9             Balance is $86
+                          Thread W1 withdraws $16            Balance is $70
+                          Thread W6 withdraws $35            Balance is $35
+                          Thread W5 withdraws $5             Balance is $30
+                          Thread W1 withdraws $5             Balance is $25
+Thread D1 deposits  $225                                     Balance is $25 
+Thread D2 deposits  $108                                     Balance is $250 
+                          Thread W3 withdraws $16            Balance is $342
+                          Thread W1 withdraws $35            Balance is $307
+                          Thread W0 withdraws $29            Balance is $278
+                          Thread W7 withdraws $20            Balance is $258
+                          Thread W3 withdraws $42            Balance is $216
+                          Thread W5 withdraws $27            Balance is $189
+                          Thread W6 withdraws $6             Balance is $183
+                          Thread W4 withdraws $27            Balance is $156
+Thread D1 deposits  $177                                     Balance is $156 
+                          Thread W2 withdraws $19            Balance is $314
+Thread D2 deposits  $66                                      Balance is $314 
+                          Thread W1 withdraws $47            Balance is $333
+                          Thread W5 withdraws $27            Balance is $306
+                          Thread W7 withdraws $18            Balance is $288
+                          Thread W3 withdraws $38            Balance is $250
+                          Thread W3 withdraws $44            Balance is $206
+                          Thread W6 withdraws $27            Balance is $179
+                          Thread W0 withdraws $37            Balance is $142
+                          Thread W4 withdraws $39            Balance is $103
+                          Thread W2 withdraws $41            Balance is $62
+                          Thread W1 withdraws $8             Balance is $54
+                          Thread W3 withdraws $13            Balance is $41
+                          Thread W0 withdraws $3             Balance is $38
+                          Thread W7 withdraws $48 - Blocked - Insufficient funds
+                          Thread W4 withdraws $25            Balance is $13
+                          Thread W3 withdraws $16 - Blocked - Insufficient funds
+                          Thread W2 withdraws $45 - Blocked - Insufficient funds
+                          Thread W5 withdraws $24 - Blocked - Insufficient funds
+                          Thread W6 withdraws $46 - Blocked - Insufficient funds
+                          Thread W1 withdraws $5             Balance is $8
+                          Thread W1 withdraws $3             Balance is $5
+                          Thread W0 withdraws $30 - Blocked - Insufficient funds
+                          Thread W4 withdraws $27 - Blocked - Insufficient funds
+                          Thread W1 withdraws $4             Balance is $1
+Thread D2 deposits  $173                                     Balance is $1 
+Thread D0 deposits  $126                                     Balance is $174 
+                          Thread W7 withdraws $37            Balance is $263
+                          Thread W7 withdraws $40            Balance is $223
+                          Thread W3 withdraws $47            Balance is $176
+                          Thread W0 withdraws $3             Balance is $173
+Thread D3 deposits  $99                                      Balance is $173 
+                          Thread W5 withdraws $33            Balance is $239
+                          Thread W3 withdraws $11            Balance is $228
+                          Thread W6 withdraws $19            Balance is $209
+                          Thread W4 withdraws $3             Balance is $206
+                          Thread W1 withdraws $17            Balance is $189
+                          Thread W2 withdraws $45            Balance is $144
+                          Thread W1 withdraws $28            Balance is $116
+                          Thread W5 withdraws $29            Balance is $87
+                          Thread W7 withdraws $28            Balance is $59
+                          Thread W1 withdraws $49            Balance is $10
+                          Thread W1 withdraws $30 - Blocked - Insufficient funds
+                          Thread W0 withdraws $18 - Blocked - Insufficient funds
+                          Thread W6 withdraws $23 - Blocked - Insufficient funds
+                          Thread W4 withdraws $31 - Blocked - Insufficient funds
+Thread D1 deposits  $10                                      Balance is $10 
+                          Thread W3 withdraws $16            Balance is $4
+                          Thread W1 withdraws $9 - Blocked - Insufficient funds
+                          Thread W2 withdraws $41 - Blocked - Insufficient funds
+                          Thread W7 withdraws $39 - Blocked - Insufficient funds
+                          Thread W5 withdraws $45 - Blocked - Insufficient funds
+                          Thread W0 withdraws $43 - Blocked - Insufficient funds
+                          Thread W4 withdraws $11 - Blocked - Insufficient funds
+                          Thread W6 withdraws $4             Balance is $0
+                          Thread W3 withdraws $38 - Blocked - Insufficient funds
+                          Thread W6 withdraws $37 - Blocked - Insufficient funds
+Thread D0 deposits  $8                                       Balance is $0 
+Thread D1 deposits  $151                                     Balance is $8 
+Thread D2 deposits  $203                                     Balance is $159 
+                          Thread W0 withdraws $22            Balance is $340
+                          Thread W1 withdraws $14            Balance is $326
+                          Thread W7 withdraws $31            Balance is $295
+                          Thread W0 withdraws $36            Balance is $259
+Thread D1 deposits  $215                                     Balance is $259 
+                          Thread W6 withdraws $2             Balance is $472
+                          Thread W4 withdraws $20            Balance is $452
+                          Thread W4 withdraws $4             Balance is $448
+                          Thread W4 withdraws $19            Balance is $429
+                          Thread W2 withdraws $7             Balance is $422
+                          Thread W5 withdraws $17            Balance is $405
+                          Thread W3 withdraws $10            Balance is $395
+                          Thread W0 withdraws $49            Balance is $346
+                          Thread W2 withdraws $14            Balance is $332
+                          Thread W1 withdraws $45            Balance is $287
+                          Thread W4 withdraws $46            Balance is $241
+                          Thread W7 withdraws $17            Balance is $224
+                          Thread W6 withdraws $33            Balance is $191
+                          Thread W5 withdraws $36            Balance is $155
+                          Thread W6 withdraws $35            Balance is $120
+                          Thread W3 withdraws $17            Balance is $103
+                          Thread W3 withdraws $15            Balance is $88
+                          Thread W7 withdraws $15            Balance is $73
+                          Thread W2 withdraws $4             Balance is $69
+                          Thread W7 withdraws $37            Balance is $32
+                          Thread W0 withdraws $35 - Blocked - Insufficient funds
+                          Thread W5 withdraws $48 - Blocked - Insufficient funds
+                          Thread W1 withdraws $12            Balance is $20
+Thread D3 deposits  $68                                      Balance is $20 
+                          Thread W4 withdraws $31            Balance is $57
+                          Thread W2 withdraws $35            Balance is $22
+                          Thread W2 withdraws $6             Balance is $16
+                          Thread W6 withdraws $32 - Blocked - Insufficient funds
+                          Thread W3 withdraws $20 - Blocked - Insufficient funds
+Thread D0 deposits  $16                                      Balance is $16 
+                          Thread W1 withdraws $27            Balance is $5
+                          Thread W5 withdraws $32 - Blocked - Insufficient funds
+                          Thread W0 withdraws $4             Balance is $1
+                          Thread W0 withdraws $12 - Blocked - Insufficient funds
+                          Thread W4 withdraws $29 - Blocked - Insufficient funds
+                          Thread W6 withdraws $49 - Blocked - Insufficient funds
+                          Thread W3 withdraws $34 - Blocked - Insufficient funds
+                          Thread W7 withdraws $15 - Blocked - Insufficient funds
+Thread D0 deposits  $46                                      Balance is $1 
+Thread D3 deposits  $7                                       Balance is $47 
+                          Thread W3 withdraws $40            Balance is $14
+                          Thread W3 withdraws $27 - Blocked - Insufficient funds
+                          Thread W4 withdraws $39 - Blocked - Insufficient funds
+                          Thread W2 withdraws $25 - Blocked - Insufficient funds
+                          Thread W0 withdraws $34 - Blocked - Insufficient funds
+                          Thread W1 withdraws $20 - Blocked - Insufficient funds
+                          Thread W7 withdraws $17 - Blocked - Insufficient funds
+                          Thread W5 withdraws $0             Balance is $14
+                          Thread W6 withdraws $15 - Blocked - Insufficient funds
+                          Thread W5 withdraws $42 - Blocked - Insufficient funds
+Thread D2 deposits  $123                                     Balance is $14 
+Thread D2 deposits  $226                                     Balance is $137 
+                          Thread W4 withdraws $14            Balance is $349
+                          Thread W3 withdraws $49            Balance is $300
+                          Thread W0 withdraws $36            Balance is $264
+                          Thread W2 withdraws $4             Balance is $260
+Thread D1 deposits  $125                                     Balance is $260 
+                          Thread W4 withdraws $25            Balance is $360
+                          Thread W7 withdraws $14            Balance is $346
+                          Thread W2 withdraws $38            Balance is $308
+                          Thread W2 withdraws $31            Balance is $277
+                          Thread W0 withdraws $42            Balance is $235
+                          Thread W7 withdraws $34            Balance is $201
+                          Thread W1 withdraws $3             Balance is $198
+                          Thread W5 withdraws $1             Balance is $197
+                          Thread W6 withdraws $47            Balance is $150

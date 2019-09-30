@@ -5,16 +5,29 @@ public class Deposit implements Runnable {
   BalanceManager myManager;
   String threadName;
 
-  public Deposit(BalanceManager a, String name){
+  public Deposit(BalanceManager a, String name) {
     myManager = a;
     threadName = name;
   }
-  public void run(){
-    Integer randTime;
+
+  @Override
+  public void run() {
     Integer randValue;
+    Integer randSleep;
     Random rand = new Random();
-    randValue = rand.nextInt(50);
-    randTime = rand.nextInt(250);
-    myManager.deposit(randTime,randValue,threadName);
+    while (true) {
+      randValue = rand.nextInt(250);
+      randSleep = rand.nextInt(30);
+      myManager.deposit(randValue, threadName);
+      // Put to sleep for random.
+      try {
+        Thread.sleep(randSleep);
+      } 
+      catch (InterruptedException e) {
+        e.printStackTrace();
+      }
+
+      
+    }
   }
 }
